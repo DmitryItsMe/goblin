@@ -1,1 +1,1 @@
-print("Hi Goblins!")
+print("Fuck goblins!!!")
